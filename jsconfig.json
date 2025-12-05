@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["hr-system/src/*"]
     }
   },
   "exclude": ["node_modules", "dist"]
